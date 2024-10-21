@@ -126,7 +126,9 @@ footer{
     bottom: 0;
 }
  @media (max-width: 1000px) {
-
+    body{
+        overflow:auto;
+    }
     .cabecalho {
         padding: 4%;
         justify-content: center;
