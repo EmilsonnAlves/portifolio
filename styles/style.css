@@ -125,3 +125,35 @@ footer{
     width: 100%;
     bottom: 0;
 }
+ @media (max-width: 1000px) {
+
+    .cabecalho {
+        padding: 4%;
+        justify-content: center;
+        gap: 15px;
+    }
+    .atalho{
+        font-size: 1rem;
+    }
+
+    .biografia{
+        flex-direction: column-reverse;
+    }
+    .apresentacao{
+        align-items: center;
+    }
+    .apresentacao__foto{
+        width: 250px;
+        height: 250px;
+    }
+    .apresentacao__titulo{
+        font-size: 1.5rem;
+    }
+    .apresentacao__conteudo{
+        font-size: 1rem;
+        width: 300px;
+    }
+    .apresentacao__subtitulo__links{
+        font-size: 1rem;
+    }
+ }
