@@ -17,6 +17,7 @@ body{
     text-align: center;
     gap: 100px;
     padding: 1%;
+    width: 100%;
 }
 .atalho{
     text-decoration: none;
@@ -129,6 +130,7 @@ footer{
         padding: 4%;
         justify-content: center;
         gap: 15px;
+        width: 100%;
     }
     .atalho{
         font-size: 1rem;
