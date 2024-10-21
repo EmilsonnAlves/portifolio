@@ -130,7 +130,7 @@ footer{
         padding: 4%;
         justify-content: center;
         gap: 15px;
-        width: 100%;
+        width: 100vh;
     }
     .atalho{
         font-size: 1rem;
