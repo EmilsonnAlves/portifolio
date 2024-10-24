@@ -141,6 +141,8 @@ footer{
     }
 
     .biografia{
+        align-items: center;
+        justify-content: space-between;
         margin-top: 20%;
         flex-direction: column-reverse;
     }
