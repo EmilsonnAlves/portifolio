@@ -170,4 +170,14 @@ footer{
         font-size: 1rem;
         padding: 2% 0;
     }
+    .projetos{
+        margin-top: 20%;
+    }
+    .skills{
+        margin-top: 20%;
+    }
+    .texto, .lista{
+        font-size: 1rem;
+        width: 350px;
+    }
  }
